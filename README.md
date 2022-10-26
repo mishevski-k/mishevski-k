@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @mishevski-k a Software developed with passion for everything tech related.
-- 👀 I’m interested in pretty much everythin tech or non-tech, always looking for something new to learn.
-- 🌱 I’m currently learning Java Rest APIs with Spring and Front-end with Angular
-
 #  👨‍💻 Kiril Mishevski
 
-**`Digital Craftsman`**
+**`Digital Craftsman (Developer)`**
+
+<div>
+  
+  <img src="https://github.com/mishevski-k/mishevski-k/blob/main/assets/coding-burn.gif"/>
+  <p style="margin-top: 15px;">
+  
+  > Can work even in the harshest environments 
+    
+  </p>
+</div>
